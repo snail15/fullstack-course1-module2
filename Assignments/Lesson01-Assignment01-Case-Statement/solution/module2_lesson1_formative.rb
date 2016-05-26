@@ -1,5 +1,5 @@
 some_var = "false"
-another_var = "nil"
+another_var = nil
 
 case 
 when some_var == "pink elephant"
